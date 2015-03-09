@@ -2,41 +2,50 @@
 *{
 	font-family: verdana, sans-serif;
 }
+
 /* Padding para el Cuerpo de la Página */
 body{
 	padding-left: 10%;
 	padding-right: 12%;
 }
+
 /* Color del Titulo */
 .text-center{
 	color:#666;
 }
+
 /* Tamaño al 100% del ancho de la Grilla */
 img{
 	width: 100%;
 }
+
 /* Interlineado del Parrafo */
 p{
 	line-height: 3em;
 	padding-right: 10%;
 }
+
 /* Color del Subtitulo */
 h3{
 	color: #f07c17;
 }
+
 /* Espaciado Izquierdo del Parrafo */
 .contenido{
 	padding-left: 3%;
 }
-/*  Alineado de Caja que contiene la lista */
+
+/* Alineado de Caja que contiene la lista */
 .main{
 	border: 1px solid gray;
 }
+
 /* Color del Subtitulo del Listado */
 .listado{
 	color: #f07c17;
 	font-weight: bold;
 }
+
 /* Color del Listado */
 li{
 	color: #78c161
